@@ -26,6 +26,7 @@
     color: black; 
     border: 2px solid #4CAF50;
     border-radius: 10px;
+    margin-left: 0px;
   }
   
   .submit-button:hover {
@@ -41,5 +42,12 @@
     vertical-align: middle;
     margin-bottom: 8px;
     margin-left: 16px;
+}
+.level-check-title{
+  text-align: right;
+  margin-right: 20%;
+}
+.col-xs-6>.row{
+  margin-left: 0px;
 }
 }
